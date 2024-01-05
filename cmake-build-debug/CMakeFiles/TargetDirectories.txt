@@ -1,0 +1,3 @@
+D:/codes/C++/MemoryVisualizer/MemoryVisualizer/cmake-build-debug/CMakeFiles/MemoryVisualizer.dir
+D:/codes/C++/MemoryVisualizer/MemoryVisualizer/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/codes/C++/MemoryVisualizer/MemoryVisualizer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

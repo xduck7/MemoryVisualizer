@@ -1,0 +1,12 @@
+# ninja log v5
+1484	1578	7261782221487119	MemoryVisualizer.exe	8d83a8f6a57001af
+4	1484	7261782220588525	CMakeFiles/MemoryVisualizer.dir/main.cpp.obj	b08a88a5f70d65b2
+0	205	7261788895239404	build.ninja	2dec8dcd9f335d24
+10	460	7261781785502920	CMakeFiles/MemoryVisualizer.dir/DirectoryReader.cpp.obj	c742859fb4b42d62
+16	1540	7261762593305272	CMakeFiles/MemoryVisualizer.dir/SizeReader.cpp.obj	e088aad9278388e6
+14	455	7261781785462925	CMakeFiles/MemoryVisualizer.dir/Checker.cpp.obj	d60708cad60d36fc
+20	663	7261788977472877	CMakeFiles/MemoryVisualizer.dir/Checker.cpp.obj	a6c00ac0e1d141bd
+15	688	7261788977739912	CMakeFiles/MemoryVisualizer.dir/DirectoryReader.cpp.obj	5c005321768f7dda
+26	2073	7261788991597621	CMakeFiles/MemoryVisualizer.dir/SizeReader.cpp.obj	fa04df56f8c66bba
+5	2338	7261788994237378	CMakeFiles/MemoryVisualizer.dir/main.cpp.obj	66ff17d6aff87299
+2338	2458	7261788995382521	MemoryVisualizer.exe	8d83a8f6a57001af

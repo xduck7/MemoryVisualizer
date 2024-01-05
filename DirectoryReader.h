@@ -1,0 +1,14 @@
+//
+// Created by Artem on 05.01.2024.
+//
+
+#ifndef MEMORYVISUALIZER_DIRECTORYREADER_H
+#define MEMORYVISUALIZER_DIRECTORYREADER_H
+
+
+class DirectoryReader {
+
+};
+
+
+#endif //MEMORYVISUALIZER_DIRECTORYREADER_H

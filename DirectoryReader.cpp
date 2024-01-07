@@ -11,9 +11,9 @@
 
 class DirReader {
 public:
-    static std::vector<std::string> DirectoryReader(char Disk) {
+    static std::vector<std::string> DirectoryReader(std::string path) {
         std::vector<std::string> AllDirectories;
-        std::string directoryPath = std::string(1, Disk)+":\\";
+        std::string directoryPath = path + "\\";
         DIR *dir;
         struct dirent *entry;
         SystemName checker;
@@ -31,7 +31,7 @@ public:
             };
             return AllDirectories;
         } catch (const std::exception) {
-            return {"Disk not found"};
+            return {"Directory not found"};
         }
 
     };

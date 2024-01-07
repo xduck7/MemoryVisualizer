@@ -6,7 +6,7 @@
 #include <dirent.h>
 #include <windows.h>
 
-//TODO: нахрен поменять эту функцию
+//TODO: change this
 
 class SizeReader {
 public:

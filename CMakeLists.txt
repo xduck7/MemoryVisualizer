@@ -9,4 +9,7 @@ add_executable(
         SizeReader.cpp
         SizeReader.h
         Checker.cpp
-        Checker.h)
+        Checker.h
+        Filter.cpp
+        Filter.h
+)

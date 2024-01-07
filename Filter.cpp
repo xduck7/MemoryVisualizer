@@ -12,11 +12,11 @@ public:
         int toGb = 1024*1024*1024;
 
         if (size / toGb > 0.1) {
-            std::cout << path << " " << size/toGb << "Gb\n";
+            std::cout << path << " " << size/toGb << " Gb\n";
         } else if (size / toMb > 1 && size / toMb < 1024) {
-            std::cout << path << " " << size/toMb << "Mb\n";
+            std::cout << path << " " << size/toMb << " Mb\n";
         } else {
-            std::cout << path << " " << size/toKb << "Kb\n";
+            std::cout << path << " " << size/toKb << " Kb\n";
         }
     };
 };
